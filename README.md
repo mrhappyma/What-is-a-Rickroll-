@@ -9,8 +9,18 @@ There was a filter on the internet fourm [4chan](https://www.4channel.org/) that
 
  ![Duckroll](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg)
  
-Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my grandmother's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here, but here it is anyway. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when [YouTube booby trapped every video on the "fetured videos" page to lead to the song.](https://www.wired.com/2008/04/youtube-rickrol/).
+Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my grandmother's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when [YouTube booby trapped every video on the "fetured videos" page to lead to the song.](https://www.wired.com/2008/04/youtube-rickrol/).
+
+## Examples
+
+While I don't feel like taking the time to embed or even copy/paste individual rickroll examples in here, here's a few databases with quite a few rickrolls in them. 
+
+[rickastley.rocks](http://rickastley.rocks) <-- I recommend this one, and I'm tottaly not bias or anything
+
+[YouTube "Rick Rolls To Trick Poeople With" playlist](https://www.youtube.com/playlist?list=PLVbxVQf7e2KRz1J34jFf7jDJFDT9lvnQ9)
+
 
 ## Additional reading
 
 Is this just not enough info for you? There's quite a bit of info about Rickrolling and what it is and some of the first uses of it over on the [Wikipedia article](https://wikipedia.org/wiki/Rickrolling).
+There's also [this](https://www.youtube.com/watch?v=QMW4AqbuSGg) amazing YouTube video that goes way too much into detail if you're the kind of person who appriciates that sort of thing.
