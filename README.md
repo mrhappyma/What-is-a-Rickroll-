@@ -9,7 +9,7 @@ There was a filter on the internet fourm [4chan](https://www.4channel.org/) that
 
  ![Duckroll](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg)
  
-Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my grandmother's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when [YouTube booby trapped every video on the "fetured videos" page to lead to the song.](https://www.wired.com/2008/04/youtube-rickrol/).
+Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my grandmother's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when YouTube booby trapped every video on the "fetured videos" page to lead to the song. Further reading [here](https://www.wired.com/2008/04/youtube-rickrol/).
 
 ## Examples
 
@@ -19,6 +19,9 @@ While I don't feel like taking the time to embed or even copy/paste individual r
 
 [YouTube "Rick Rolls To Trick Poeople With" playlist](https://www.youtube.com/playlist?list=PLVbxVQf7e2KRz1J34jFf7jDJFDT9lvnQ9)
 
+## Protect yourself!
+
+There's this cool Chrome extension I found that shows a little Rick Astley head next to every link that could potentially be a rickroll, you can go download it [here](https://chrome.google.com/webstore/detail/rick-roll-detector/naiegljfmojjaphollbjobpedcdnkkfp?hl=en).
 
 ## Additional reading
 
