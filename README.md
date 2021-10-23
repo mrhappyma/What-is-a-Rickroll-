@@ -9,7 +9,7 @@ There was a filter on the internet fourm [4chan](https://www.4channel.org/) that
 
  ![Duckroll](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg)
  
-Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my grandmother's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when YouTube booby trapped every video on the "fetured videos" page to lead to the song. Further reading [here](https://www.wired.com/2008/04/youtube-rickrol/).
+Users then preceded to pull the bait & switch trick with the duckroll. For example, here's a link to [my Nana's recipie for homemade bread](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg). You can probobobly see the rest of the story from here. *People started doing the same thing with Astley's song*. What is known as the sort of "official" start of rickrolling was one April 1st when YouTube booby trapped every video on the "fetured videos" page to lead to the song. Further reading [here](https://www.wired.com/2008/04/youtube-rickrol/).
 
 ## Examples
 
