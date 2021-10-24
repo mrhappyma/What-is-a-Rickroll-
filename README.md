@@ -5,7 +5,7 @@ A Rick Roll, Rickroll, or Rick-Roll is an internet bait-and-switch prank involvi
 
 ## Origin
 
-There was a filter on the internet fourm [4chan](https://www.4channel.org/) that would change the word egg to duck. So if you tried to type *egg*, it was replaced with *duck*. If you typed *eggman*, it was replaced with *duckman*. Somebody tried to type *eggroll*, and the filter changed it to *duckroll*. Then somebody created this amazing image of a duck on wheels.
+There was a filter on the internet fourm [4chan](https://www.4channel.org/) that would change the word egg to duck. So if you tried to type *egg*, it was replaced with *duck*. If you typed *eggman*, it was replaced with *duckman*. Somebody tried to type *eggroll*, and the filter changed it to *duckroll*. Then somebody created this beautiful image of a duck on wheels.
 
  ![Duckroll](https://i.kym-cdn.com/entries/icons/original/000/000/305/duckroll169.jpg)
  
