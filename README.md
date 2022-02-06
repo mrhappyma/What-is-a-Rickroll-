@@ -15,7 +15,7 @@ Users then preceded to pull the bait & switch trick with the duckroll. For examp
 
 While I don't feel like taking the time to embed or even copy/paste individual rickroll examples in here, here's a few databases with quite a few rickrolls in them. 
 
-[rickastley.rocks](http://rickastley.rocks) <-- I recommend this one, and I'm tottaly not bias or anything
+~~[rickastley.rocks](http://rickastley.rocks) <-- I recommend this one, and I'm tottaly not bias or anything~~i've given up (haha) on this project
 
 [YouTube "Rick Rolls To Trick Poeople With" playlist](https://www.youtube.com/playlist?list=PLVbxVQf7e2KRz1J34jFf7jDJFDT9lvnQ9)
 
